@@ -1,6 +1,4 @@
-{"1.1.0",
-[{<<"proper">>,{pkg,<<"proper">>,<<"1.2.0">>},0}]}.
-[
-{pkg_hash,[
- {<<"proper">>, <<"1466492385959412A02871505434E72E92765958C60DBA144B43863554B505A4">>}]}
-].
+[{<<"proper">>,
+  {git,"https://github.com/manopapad/proper.git",
+       {ref,"b317907ce746da8c2f4c73cd0886c3a9d11c07c3"}},
+  0}].
